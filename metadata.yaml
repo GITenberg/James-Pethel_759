@@ -1,0 +1,28 @@
+_repo: James-Pethel_759
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beerbohm, Max, Sir
+    alias: Beerbohm, Henry Maximilian, Sir
+    birthdate: 1872
+    deathdate: 1956
+    gutenberg_agent_id: '397'
+    url: http://www.gutenberg.org/2009/agents/397
+    wikipedia: http://en.wikipedia.org/wiki/Max_Beerbohm
+description: From "Seven Men".
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '759'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PR'
+- !lcsh 'Character sketches'
+- !lcsh 'Gambling -- Fiction'
+- GITenberg
+title: James Pethel
+url: http://www.gutenberg.org/ebooks/759
